@@ -18,3 +18,6 @@ create_encoding_packet_producer and create_encoding_packet_consumer
 6) get your data by providing iterators using get_data method.
 
 PLEASE LOOK AT THE COMPETE.CPP IN TEST FOLDER FOR MORE INFORMATION
+
+
+ALSO, IS THERE SOMEONE WHO WANTS TO CONTRIBUTE TO THIS PROJECT ? I WOULD REALLY APPRECIATE ANY HELP.
